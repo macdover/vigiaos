@@ -1,0 +1,26 @@
+[
+  {
+    "id": "tenant-mps-telefonia",
+    "tradeName": "MPS Telefonia & Segurança",
+    "name": "MPS Telefonia & Segurança Eletrônica Ltda",
+    "cnpj": "11.601.831/0001-35",
+    "ownerName": "Administrador MPS",
+    "email": "mpstelefonia@gmail.com",
+    "phone": "021 99723-2764",
+    "whatsapp": "021 99723-2764",
+    "plan": "full",
+    "status": "ativo",
+    "monthlyFee": 80,
+    "setupFeePaid": true,
+    "dueDateDay": 10,
+    "nextPaymentDate": "2026-10-10",
+    "subscriptionStartDate": "2026-09-14",
+    "adminLoginUser": "mpstelefonia@gmail.com",
+    "adminPassword": "123",
+    "techniciansCount": 1,
+    "clientsCount": 0,
+    "workOrdersCount": 0,
+    "createdAt": "2026-09-14T05:00:00.000Z",
+    "address": "Rio de Janeiro - RJ"
+  }
+]

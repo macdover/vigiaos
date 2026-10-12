@@ -1,0 +1,6 @@
+{
+  "name": "VigiaOS - Gestão de Segurança Eletrônica",
+  "description": "Sistema completo para empresas de segurança eletrônica com gestão de O.S, emissão de orçamentos por técnicos em campo, clientes, produtos/serviços, rastreamento GPS da frota e assinatura digital.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
